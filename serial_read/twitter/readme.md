@@ -1,1 +1,2 @@
-Some code
+Some code to connect micro:bit to twitter
+In progress....
