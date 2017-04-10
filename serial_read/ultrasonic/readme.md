@@ -1,4 +1,4 @@
-Some code to Ultrasonic (HC-SR04) and micro:bi
+Some code to Ultrasonic (HC-SR04) and micro:bit
 
 <img src="https://github.com/larsgimse/microbit/blob/master/serial_read/ultrasonic/PXT_ultrasonic_serialwrite.png">
 
