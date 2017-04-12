@@ -1,6 +1,10 @@
-Some code to Ultrasonic (HC-SR04) and micro:bit
+Our chinchilla Aragorn post tweets all by him self when he take sandbath. Use micro:bit, ultrasonic sensor and python code on RaspberryPi. Twitter: https://twitter.com/aragornchilla
+
+Use random giphy from gipypop: https://github.com/shaunduncan/giphypop
 
 <img src="https://github.com/larsgimse/microbit/blob/master/serial_read/ultrasonic/PXT_ultrasonic_serialwrite.png">
+
+<img src="https://github.com/larsgimse/microbit/blob/master/serial_read/ultrasonic/IMG_5263.JPG">
 
 <img src="https://github.com/larsgimse/microbit/blob/master/serial_read/ultrasonic/ultrasonic_microbit.png">
 
