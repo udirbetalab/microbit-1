@@ -35,10 +35,10 @@ microbitWaitTime = 1 # The length of time Python wait before attemping to issue 
 stringToTrack = "#romforlek" # Change this to the search term you wish to track from Twitter
 
 # Access requirements for Twitter API connection
-access_token = '822342768500637696-6LMVbXAqaNhgGjVs5xswIs8ehNAKma1'
-access_token_secret = '315m85HOWxX85FCLXUFVYKCHH2iSp7o57L6Y8fhGgJhmn'
-consumer_key = 'KF0sDbUfANTAMoQS3iikioPJk'
-consumer_secret = 'T8ca055KeHaU0BrHQjKt4k56jSzRNqPMnNAokres6IhVTlheCG'
+access_token = 'code'
+access_token_secret = 'code'
+consumer_key = 'code'
+consumer_secret = 'code'
 
 # Clearing the screen for aesthetic display of console statements
 os.system('cls' if os.name == 'nt' else 'clear')
