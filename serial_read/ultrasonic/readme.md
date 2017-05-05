@@ -6,6 +6,8 @@ Use random giphy from gipypop: https://github.com/shaunduncan/giphypop
 
 PXT code: https://pxt.microbit.org/#pub:01159-15274-09833-77975
 
+New PXT code: https://pxt.microbit.org/94726-75204-89471-23993
+
 <img src="https://github.com/larsgimse/microbit/blob/master/serial_read/ultrasonic/pxt_code.png" height=300>
 
 <img src="https://github.com/larsgimse/microbit/blob/master/serial_read/ultrasonic/IMG_5263.JPG">
