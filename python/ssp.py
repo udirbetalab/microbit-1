@@ -29,4 +29,4 @@ while True:
                 break
             elif svar == 2:
                 display.show(papir)
-                br
+                break
