@@ -8,3 +8,5 @@ Hat with neopixel
 LightSensor: https://www.hackster.io/rypsmith/micro-bit-light-sensor-bed597
 
 micro:bit to use in Fritzing: https://github.com/topshed/FritzingParts
+
+Neopixel parts to use in Fritzing from: http://fritzing.org/projects/flora-music-visualizer
