@@ -1,5 +1,10 @@
 Some new stuff...
 
+<img src="https://github.com/larsgimse/microbit/blob/master/twitter/new/twitter_to_microbit_txt.png">
+https://makecode.microbit.org/_K2VcpVCbi2qg
+
+
+
 
 https://makecode.microbit.org/_U8uXyK7pw6Fi
 
