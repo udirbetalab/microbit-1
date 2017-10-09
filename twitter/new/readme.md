@@ -17,3 +17,5 @@ more block code with funktion and pimp
 https://makecode.microbit.org/_6xu1bdPE12Rf
 
 https://makecode.microbit.org/_UoY1XRieFbHi
+
+https://makecode.microbit.org/_eHY02iL1oeD5
