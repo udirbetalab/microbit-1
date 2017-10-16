@@ -1,4 +1,4 @@
-<img src="https://github.com/larsgimse/microbit/blob/master/eplant/e-plant_01.png" width=200>
+<img src="https://github.com/larsgimse/microbit/blob/master/eplant/e-plant_01.png" width=200><br>
 <a href="https://www.instagram.com/p/BaUWcMGgBnr">Link to video</a>
 
 
