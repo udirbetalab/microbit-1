@@ -11,3 +11,7 @@ E-plant 2.0 - micro:bit code with serial send (test with A and B button) - https
 
 Python code: https://github.com/larsgimse/microbit/blob/master/eplant/microbit_to_twitter_01.py
 
+<img src="https://github.com/larsgimse/microbit/blob/master/eplant/microbit_code_eplant_02.png">
+https://makecode.microbit.org/_CttLWf7vLbU7
+Test with potensiometer
+
