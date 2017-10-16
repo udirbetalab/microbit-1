@@ -1,5 +1,6 @@
-<img src="https://github.com/larsgimse/microbit/blob/master/eplant/e-plant_01.png">
+<img src="https://github.com/larsgimse/microbit/blob/master/eplant/e-plant_01.png" width=200>
 <a href="https://www.instagram.com/p/BaUWcMGgBnr">Link to video</a>
+
 
 Will get my plant to tweet when need water
 
