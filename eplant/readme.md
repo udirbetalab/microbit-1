@@ -5,7 +5,7 @@
 Will get my plant to tweet when need water - https://twitter.com/digi_plant
 
 <b>UPDATE:</b>
-New Python code: https://github.com/larsgimse/microbit/blob/master/eplant/python_code_01.py<br>
+New Python code: https://github.com/larsgimse/microbit/blob/master/eplant/python_code_02.py<br>
 micro:bit code: https://github.com/larsgimse/microbit/blob/master/eplant/python_code_01.py<br>
 Plant on Twitter: https://twitter.com/digi_plant<br>
 <br>
