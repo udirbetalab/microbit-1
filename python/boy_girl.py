@@ -1,4 +1,4 @@
-# gutt=boy and jente=girl - most popular boy ang girl name in Norway 2016
+# 10 most popular boy and girl name in Norway 2016 picker - gutt=boy and jente=girl
 
 from microbit import *
 import random
