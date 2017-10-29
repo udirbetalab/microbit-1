@@ -15,7 +15,7 @@ python arduino code: https://github.com/larsgimse/microbit/blob/master/eplant/tw
 
 arduino code: https://github.com/larsgimse/microbit/blob/master/eplant/twitter_fan_light.ino
 
-<br>
+micro:bit send serial (wet: random 1-4 x 12 hour) ** (dry: random 1-4 x 6 hour)
 <img src="https://github.com/larsgimse/microbit/blob/master/eplant/eplant_to_twitter_6hour_12hour.png">
 <br>
 <br>
