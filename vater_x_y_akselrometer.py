@@ -1,5 +1,5 @@
 # elektronisk vater
-# akselerometeret i microbit leser verdi mellom -1024 og 1024 - og er i vater naar aksen har verdien 0
+# akselerometeret i microbit leser verdi mellom -1024 og 1024 og er i vater naar aksen har verdien 0
 #
 # for aa bruke LED displayet maa vi gjoere om verdien fra akselrometeret til verdier mellom 0 og 4
 # til dette lager vi to funksjoner xakse(verdi) og yxakse(verdi)
