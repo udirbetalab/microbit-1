@@ -8,27 +8,27 @@ from microbit import*
 
 lysstyrke = 9 #lysstyrken paa LED kan sette mellom 1 og 9 der 9 er sterkest og 0 er av
 
-def xakse(verdi):
+def xakse(x_acc):
     x = 0
-    if verdi > -500: #verdien er mindre enn -500 x=0+1 
+    if x_acc > -500: #verdien er mindre enn -500 x=0+1 
         x = x + 1
-    if verdi > -200: #verdien er mindre enn -200 x=1+1
+    if x_acc > -200: #verdien er mindre enn -200 x=1+1
         x = x + 1
-    if verdi > 200: #verdien er storre enn 200 x=2+1
+    if x_acc > 200: #verdien er storre enn 200 x=2+1
         x = x + 1
-    if verdi > 500: #verdien er storre enn 500 x=3+1
+    if x_acc > 500: #verdien er storre enn 500 x=3+1
         x = x + 1
     return x
     
-def yakse(verdi):
+def yakse(y_acc):
     y = 0
-    if verdi > -500: #verdien er mindre enn -500 y=0+1
+    if y_acc > -500: #verdien er mindre enn -500 y=0+1
         y = y + 1
-    if verdi > -200: #verdien er mindre enn -200 y=1+1
+    if y_acc > -200: #verdien er mindre enn -200 y=1+1
         y = y + 1
-    if verdi > 200: #verdien er mindre enn 200 y=2+1
+    if y_acc > 200: #verdien er mindre enn 200 y=2+1
         y = y + 1
-    if verdi > 500: #verdien er mindre enn 500 y=3+1
+    if y_acc > 500: #verdien er mindre enn 500 y=3+1
         y = y + 1
     return y
     
