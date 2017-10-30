@@ -37,7 +37,7 @@ while True:
     x_display = xakse(accelerometer.get_x()) #setter x_display til xakse verdi i forhold til akselerometeret
     y_display = yakse(accelerometer.get_y()) #setter y_display til xakse verdi i forhold til akselerometeret
     
-    display.clear() #renser skjermen mellom hver loop    
     display.set_pixel(x_display, y_display, lysstyrke) #skrur paa aktuell LED basert paa x_display, y_display og lysstyrke
+    display.clear() #renser skjermen mellom hver loop
     
     print(x_display, y_display) #skriver verdien paa skjermen i program som stoetter dette, eks. MU 
