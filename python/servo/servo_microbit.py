@@ -47,8 +47,7 @@ class Servo:
 #
 # herfra er det enklere kode som lett kan endres
 
-sv1 = Servo(pin0)
-sv1.write_angle(50) # turn servo to 50 degrees 
+sv1 = Servo(pin0) # her klarerer vi varibel sv1 til servo paa pin0
 
 while True:
     if button_a.was_pressed():
