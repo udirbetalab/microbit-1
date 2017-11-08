@@ -1,5 +1,9 @@
 Some new stuff...
 
+https://makecode.microbit.org/_f2tgTxJ1va8P
+<img src="https://github.com/larsgimse/microbit/blob/master/twitter/new/Skjermbilde%202017-11-08%20kl.%2021.41.41.png">
+
+
 <img src="https://github.com/larsgimse/microbit/blob/master/twitter/new/twitter_to_microbit_txt.png">
 https://makecode.microbit.org/_K2VcpVCbi2qg
 
