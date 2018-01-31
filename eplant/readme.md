@@ -15,6 +15,8 @@ python arduino code: https://github.com/larsgimse/microbit/blob/master/eplant/tw
 
 arduino code: https://github.com/larsgimse/microbit/blob/master/eplant/twitter_fan_light.ino
 
+Humidity Sensor: https://www.aliexpress.com/item/2pcs-Soil-Humidity-Sensor-Module-Hygrometer-Detection-Moisture-Sensor-Sensing-Module-for-Arduino-Automatic-Watering-System/32760389137.html?spm=a2g0s.9042311.0.0.FGmYfJ
+
 micro:bit send serial (wet: random 1-4 x 12 hour) ** (dry: random 1-4 x 6 hour)
 <img src="https://github.com/larsgimse/microbit/blob/master/eplant/eplant_to_twitter_6hour_12hour.png">
 <br>
