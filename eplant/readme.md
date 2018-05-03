@@ -28,6 +28,9 @@ micro:bit code: https://makecode.microbit.org/_fkHU9tMUjVxk<br>
 Plant on Twitter: https://twitter.com/digi_plant<br>
 <br>
 <img src="https://github.com/larsgimse/microbit/blob/master/eplant/digi_plant_01.png">
+<img src="https://github.com/udirbetalab/microbit2/blob/master/eplant/digi_plant_bb.png">
+
+*************************************
 
 OLD STUFF:
 
