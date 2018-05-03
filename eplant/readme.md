@@ -4,6 +4,13 @@
 
 Will get my plant to tweet when need water - https://twitter.com/digi_plant
 
+<b>UPDATE:</b>
+New Python code: https://github.com/larsgimse/microbit/blob/master/eplant/python_code_02.py<br>
+micro:bit code: https://makecode.microbit.org/_fkHU9tMUjVxk<br>
+Plant on Twitter: https://twitter.com/digi_plant<br>
+<br>
+<img src="https://github.com/larsgimse/microbit/blob/master/eplant/digi_plant_01.png">
+<img src="https://github.com/udirbetalab/microbit2/blob/master/eplant/digi_plant_bb.png" width=450>
 
 <b>UPDATE_2017_10_29:</b>
 
@@ -22,13 +29,12 @@ micro:bit send serial (wet: random 1-4 x 12 hour) ** (dry: random 1-4 x 6 hour)
 
 
 
-<b>UPDATE:</b>
-New Python code: https://github.com/larsgimse/microbit/blob/master/eplant/python_code_02.py<br>
-micro:bit code: https://makecode.microbit.org/_fkHU9tMUjVxk<br>
-Plant on Twitter: https://twitter.com/digi_plant<br>
-<br>
-<img src="https://github.com/larsgimse/microbit/blob/master/eplant/digi_plant_01.png">
-<img src="https://github.com/udirbetalab/microbit2/blob/master/eplant/digi_plant_bb.png" width=450>
+<b>UPDATE_2017_10_29:</b>
+
+micro:bit code: https://makecode.microbit.org/_FVwKLfE0tD3i
+python code: https://github.com/larsgimse/microbit/blob/master/eplant/eplant_to_twitter_from_serial_read_microbit.py
+python arduino code: https://github.com/larsgimse/microbit/blob/master/eplant/twitter_to_fan_light.py
+arduino code: https://github.com/larsgimse/microbit/blob/master/eplant/twitter_fan_light.ino
 
 *************************************
 
